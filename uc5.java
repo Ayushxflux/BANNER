@@ -1,17 +1,16 @@
-public class uc4 {
+public class uc5 {
 
     public static void main(String[] args) {
 
         
         String[] banner = {
-
-            String.join("", "*     *   *****    *****    ***** ");
-            String.join("", "*     *   *   *    *   *    *     ");
-            String.join("", "*     *   *   *    *   *    *     ");
-            String.join("", "*     *   *****    *****    ***** ");
-            String.join("", "*     *   *        *            * ");
-            String.join("", "*     *   *        *            * ");
-            String.join("", " *****    *        *        ***** ");
+                String.join("", " *****     *****     *****     ***** "),
+                String.join("", "*     *   *     *   *     *   *      "),
+                String.join("", "*     *   *     *   *     *   *      "),
+                String.join("", "*     *   *     *   *****     *****  "),
+                String.join("", "*     *   *     *   *              * "),
+                String.join("", "*     *   *     *   *              * "),
+                String.join("", " *****     *****    *         *****  ")
         };
 
         
